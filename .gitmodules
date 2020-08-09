@@ -1,0 +1,6 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/hargun3045/submodule.git
+[submodule "ai1-c1-webpage"]
+	path = ai1-c1-webpage
+	url = https://github.com/univai-ai1-c1/ai1-c1-webpage.git
