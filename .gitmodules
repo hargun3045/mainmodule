@@ -13,3 +13,6 @@
 [submodule "Hello-World"]
 	path = Hello-World
 	url = https://github.com/octocat/Hello-World.git
+[submodule "thisIsSub/Hello-World"]
+	path = thisIsSub/Hello-World
+	url = https://github.com/octocat/Hello-World.git
