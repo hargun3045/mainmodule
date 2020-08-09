@@ -4,3 +4,12 @@
 [submodule "ai1-c1-webpage"]
 	path = ai1-c1-webpage
 	url = https://github.com/univai-ai1-c1/ai1-c1-webpage.git
+[submodule "ktf-c1"]
+	path = ktf-c1
+	url = https://github.com/univai-ktf-c1/ktf-c1.git
+[submodule "Foundations/ktf-c1"]
+	path = Foundations/ktf-c1
+	url = https://github.com/univai-ktf-c1/ktf-c1.git
+[submodule "Hello-World"]
+	path = Hello-World
+	url = https://github.com/octocat/Hello-World.git
